@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "弯头激光切割校正工具 V5.0",
+  "short_name": "弯头校正",
+  "description": "理论几何参考、试切测量、历史记录与本机备份",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6fa",
+  "theme_color": "#123b60",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
